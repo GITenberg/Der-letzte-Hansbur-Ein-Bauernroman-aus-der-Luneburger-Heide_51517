@@ -1,5 +1,8 @@
 _repo: Der-letzte-Hansbur-Ein-Bauernroman-aus-der-Luneburger-Heide_51517
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51517-h/images/cover.jpg
 creator:
   author:
     agent_name: Löns, Hermann
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25563
     wikipedia: http://en.wikipedia.org/wiki/Hermann_L%C3%B6ns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51517#Der-letzte-Hansbur-Ein-Bauernroman-aus-der-Luneburger-Heide
 gutenberg_issued: '2016-03-21'
 gutenberg_type: Text
 identifiers:
