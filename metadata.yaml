@@ -1,0 +1,26 @@
+_repo: Der-letzte-Hansbur-Ein-Bauernroman-aus-der-Luneburger-Heide_51517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Löns, Hermann
+    alias: Lons, Hermann
+    birthdate: 1866
+    deathdate: 1914
+    gutenberg_agent_id: '25563'
+    url: http://www.gutenberg.org/2009/agents/25563
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_L%C3%B6ns
+description: ''
+gutenberg_issued: '2016-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51517'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Der letzte Hansbur: Ein Bauernroman aus der Lüneburger Heide'
+url: http://www.gutenberg.org/ebooks/51517
